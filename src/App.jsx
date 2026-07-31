@@ -15,7 +15,7 @@ function App() {
       {path : "/Blog/:slug" , element :<BlogDetails/>},
       {path : "*" ,element : <NotFound/>}
     ]}
-  ], {basename : "'/MYAPP"} )
+  ], {basename : "/MYAPP"} )
 
   return (
     <>
