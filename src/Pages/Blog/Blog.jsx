@@ -2,7 +2,7 @@ import BlogHero from "../../components/BlogHero/BlogHero";
 import Search from "../../components/Search/Search";
 import Filter from "../../components/Filter/Filter";
 import BlogList from "../../components/BlogList/BlogList";
-import ViewToggle from "../../components/ViewToggle/Viewtoggle";
+import ViewToggle from "../../components/ViewToggle/ViewToggle";
 import { useState } from "react";
 import postsData from "../../data/blogs.json";
 
