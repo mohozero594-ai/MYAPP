@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import MainLayout from "./Layout/MainLayout"
 import Home from "./Pages/Home/Home"
 import Blog from "./Pages/Blog/Blog"
-import BlogDetails from "./Pages/BlogDetails/Blogdetails"
+import BlogDetails from "./Pages/BlogDetails/BlogDetails"
 import NotFound from "./Pages/NotFound/NotFound"
 
 
